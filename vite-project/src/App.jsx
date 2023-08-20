@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="App">
         <h1>FRANCISCO MARQUESTO</h1>
-
+        <h2>audio</h2>
 
         <ReactAudioPlayer
           src="./src/audio/AudioFran.mp3" // Asegúrate de que la ruta sea correcta
